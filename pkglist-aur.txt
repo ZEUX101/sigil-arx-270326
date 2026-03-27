@@ -1,0 +1,7 @@
+edex-ui-bin 2.2.8-1
+lutris-wine-meta 2.1.0-6
+neofetch 7.1.0-2
+nvidia-580xx-dkms 580.142-2
+nvidia-580xx-utils 580.142-2
+yay 12.5.7-1
+yay-debug 12.5.7-1
